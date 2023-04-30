@@ -15,4 +15,4 @@ In the labels:
 
 5 - Other
 
-The images are arranged in order according to the different new areas, so if you want to test the generalizability of the model, it is recommended to disrupt the order.
+The images are arranged in order according to the different new areas, so if you want to test the generalizability of the model, it is recommended to disrupt the order. This is the first version of the dataset and we will be adding more images and types in subsequent work.
