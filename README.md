@@ -1,5 +1,5 @@
 # CNAM-CD
-Notes on use:
+Notes for use:
 CNAM-CD is a pixel-level multi-category dataset from different Chinese national new districts. This is the first version publicly available, where A is the image at the previous time, B is the image at the later time and Label is the corresponding label.
 In the labels:
 0 - Background
